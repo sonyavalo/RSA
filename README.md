@@ -1,6 +1,14 @@
 # RSA
 In this project, I implemented RSA encryption and decryption without using the RSA Python module. As a second part of this project, I have implemented a signature function and conducted a verification of my partner's signature.  
 
+## Summary ##  
+Through this exercise, fundamental principles of RSA and its real-world applications were explored and practiced. This project highlights the importance of secure communication and the practical steps involved in building cryptographic systems from the ground up.
+- Understood the mathematical basis of RSA, including modular arithmetic, prime number generation, and the role of public and private keys.
+- Learned how RSA ensures data security through encryption and authenticity through digital signatures.
+- Gained experience in message handling by converting between ASCII, hexadecimal, and integers to process data in cryptographic operations.
+- Observed how misconfigured or mismatched keys can disrupt encryption, decryption, and signature verification processes.
+- Understood the role of proper parameter selection (p,q,e) in ensuring the cryptographic strength of RSA
+  
 ## Part 1: RSA Implementation ##  
 1) Parameter Selection (p,q,e generator.py)
 
