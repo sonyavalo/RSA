@@ -1,0 +1,14 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># RSA
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 640c0f737d99c440087f533ba5014f4a24150d65)
++++ b/README.md	(date 1732751393516)
+@@ -1,1 +1,1 @@
+-# RSA
+\ No newline at end of file
++# RSA
